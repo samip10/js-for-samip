@@ -7,8 +7,7 @@ console.log(3
      3) // code readability should be high
 console.log(3 + 3)
 console.log("sam")
-
-
+console.log("sam")
 let name = "sam"
 let age = 20
 let isLoggedIn = false
